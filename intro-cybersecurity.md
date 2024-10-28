@@ -2,8 +2,7 @@
 
 ## Cybersecurity Nomenclature
 - Reconnaissance : Attackers research and identify valuable information about their target through openly available information
-- Initial Access (intrusion into network) : Getting initial foothold into the target devices (can be Server, computer, mobile device, cloud platform 
-etc)
+- Initial Access (intrusion into network) : Getting initial foothold into the target devices (can be Server, computer, mobile device, cloud platform etc)
 - Backdooring : Attackers installs malicious software's for future and continued exploitation
 - Elevating privileges : They escalate to users possessing highest power in the environment so that they can control all the devices. 
 - Data Exfiltration : Attackers collect and gather critical information from the target network
