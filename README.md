@@ -9,4 +9,4 @@ The [Certifiied Cyber Security Analyst (C3SA)](https://cyberwarfare.live/product
 6. [Multi-Cloud Basics & Exploitation](https://github.com/aaronamran/Certified-Cyber-Security-Analyst-C3SA/blob/main/multi-cloud-basics-exploitation.md)
 7. [Security Operations Center (SOC)](https://github.com/aaronamran/Certified-Cyber-Security-Analyst-C3SA/blob/main/security-operations-center.md)
 
-A certification quiz must be passed to earn the certificate
+The examination consists of a 30-question multiple-choice quiz covering the provided topics.
