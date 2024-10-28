@@ -10,3 +10,6 @@ The [Certifiied Cyber Security Analyst (C3SA)](https://cyberwarfare.live/product
 7. [Security Operations Center (SOC)](https://github.com/aaronamran/Certified-Cyber-Security-Analyst-C3SA/blob/main/security-operations-center.md)
 
 The examination consists of a 30-question multiple-choice quiz covering the provided topics.
+
+### Disclaimer:
+This GitHub repository is intended to document key lessons learned during the course and certification duration for personal reference and future use, as well as to serve as part of a portfolio for job applications. It is intentionally incomplete and should not be used for plagiarism or as a walkthrough for completing similar tasks.
