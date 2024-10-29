@@ -27,5 +27,5 @@ Based on the syllabus provided, Parrot OS is used as the attacker machine, and V
 
 
 ## Network Connectivity Across Lab Machines
-
+- For all 3 of the VMs, ping the other 2 VMs to ensure network connectivity
 
